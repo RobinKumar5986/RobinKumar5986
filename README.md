@@ -1,7 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://RobinKumar5986.io)
 <h1 align="center">Hi 👋, I'm Robin Kumar</h1>
 <h3 align="center">A passionate Android developer from India</h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://i.postimg.cc/TPT7RhRR/Robin-Kr-Photo.png"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robinkumar5986&label=Profile%20views&color=0e75b6&style=flat" alt="robinkumar5986" /> </p>
 
@@ -11,9 +10,11 @@
 
 - 🌱 I’m currently learning **Android development, web development and Algorithmsatastructure an**
 
-- 👯 I’m looking to collaborate on [Android Projects](email:-rkrobin6550@gmail.com)
+- 👯 I’m looking to collaborate on **Android Projects**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/robin-kumar-67ba361b9/](https://www.linkedin.com/in/robin-kumar-67ba361b9/)
+- 🤝 I’m looking for help with **Game and android Development**
+
+- 👨‍💻 All of my projects are available at [https://github.com/RobinKumar5986](https://github.com/RobinKumar5986)
 
 - 💬 Ask me about **Android dev, Computer networks, Java programming ,game development**
 
@@ -26,7 +27,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/robin kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="robin kumar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/robin kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robin kumar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/robin-kumar-67ba361b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robin-kumar-67ba361b9" height="30" width="40" /></a>
 <a href="https://instagram.com/rkrobin6550" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rkrobin6550" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/kg jr." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kg jr." height="30" width="40" /></a>
 <a href="https://www.leetcode.com/robinkumar_leetcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="robinkumar_leetcode" height="30" width="40" /></a>
