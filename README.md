@@ -1,23 +1,8 @@
 <h1 align="center">Hi 👋, I'm Robin</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=robinkumar5986&label=Profile%20views&color=0e75b6&style=flat" alt="robinkumar5986" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robinkumar5986" alt="robinkumar5986" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Android development, web development and DSA**
-
-- 👯 I’m looking to collaborate on **Android Projects**
-
-- 🤝 I’m looking for help with **Game and android Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RobinKumar5986](https://github.com/RobinKumar5986)
-
-- 💬 Ask me about **Android dev, Computer networks, Java programming ,game development**
-
-- 📫 How to reach me **rkrobin6550@gmail.com**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAFZUI9U66c/f4mGJ3onUaaWwLDD-P6Bfw/view?utm_content=DAFZUI9U66c&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFZUI9U66c/f4mGJ3onUaaWwLDD-P6Bfw/view?utm_content=DAFZUI9U66c&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
