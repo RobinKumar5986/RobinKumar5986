@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Robin</h1>
-<h3 align="center">A passionate Android developer from India</h3>
-
 
 - 👨‍💻 All of my projects are available at [https://github.com/RobinKumar5986](https://github.com/RobinKumar5986)
 
@@ -10,7 +8,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/robin kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="robin kumar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/robin-kumar-67ba361b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robin-kumar-67ba361b9" height="30" width="40" /></a>
 <a href="https://instagram.com/rkrobin6550" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rkrobin6550" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCnWA3GF1XTn2hmhuE9qzrLg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kgjr.6224" height="30" width="40" /></a>
