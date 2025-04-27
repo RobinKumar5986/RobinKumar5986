@@ -1,25 +1,82 @@
-<h1 align="center">Hi 👋, I'm Robin</h1>
+# 👋 Hi, I'm Robin Kumar
 
-- 👨‍💻 All of my projects are available at [https://github.com/RobinKumar5986](https://github.com/RobinKumar5986)
+I am a professional **Full Stack Developer** with experience in both front-end and back-end technologies. Throughout my career, I have contributed to various projects across different domains, focusing on delivering scalable and user-friendly applications.
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFZUI9U66c/f4mGJ3onUaaWwLDD-P6Bfw/view?utm_content=DAFZUI9U66c&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFZUI9U66c/f4mGJ3onUaaWwLDD-P6Bfw/view?utm_content=DAFZUI9U66c&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+I have had the opportunity to work on the **back-end** of several projects, building robust and efficient systems, as well as **front-end** development, creating intuitive and responsive interfaces. Alongside my professional work, I have also worked on multiple **personal projects**, exploring new technologies and continually expanding my skill set.
 
-- ⚡ Fun fact **I also play Basketball**
+In addition to my development work, I am also passionate about improving my coding skills and ranking on **LeetCode**. I am currently ranked in the **Top ~70K globally** on LeetCode, constantly pushing myself to solve more challenging problems and improve my algorithms and data structures knowledge.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/robin-kumar-67ba361b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robin-kumar-67ba361b9" height="30" width="40" /></a>
-<a href="https://instagram.com/rkrobin6550" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rkrobin6550" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCnWA3GF1XTn2hmhuE9qzrLg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kgjr.6224" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/robinkumar_leetcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="robinkumar_leetcode" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rkrobimj4j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rkrobimj4j" height="30" width="40" /></a>
-</p>
+I am always open to new opportunities and collaborations, eager to contribute my expertise and continue learning and growing in the world of software development.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robinkumar5986&show_icons=true&locale=en&layout=compact" alt="robinkumar5986" /></p>
+## 📲 All the applications I have worked on professionally
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robinkumar5986&show_icons=true&locale=en" alt="robinkumar5986" /></p>
+# Android
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robinkumar5986&" alt="robinkumar5986" /></p>
+### HomeTriangle Consumer App
+[![Download on Play Store](https://img.shields.io/badge/Download%20HomeTriangle%20Consumer%20App-Play%20Store-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.hometriangle.consumer&hl=en)
+
+### HomeTriangle Partner
+[![Download on Play Store](https://img.shields.io/badge/Download%20HomeTriangle%20Lead%20Manager-Play%20Store-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.hometriangle.app.leadm&hl=en)
+
+### Sail (Government App)
+[![Download on Play Store](https://img.shields.io/badge/Download%20Sail%20Rourkela-Play%20Store-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.mantratec.sailrourkela&hl=en)
+
+### E-Savari
+[![Download on Play Store](https://img.shields.io/badge/Download%20E-Savari%20on%20Play%20Store-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.dkglabs.e_savari&hl=en)
+
+# iOS
+
+### HomeTriangle Consumer App
+[![Download on the App Store](https://img.shields.io/badge/Download%20HomeTriangle%20Consumer%20App-App%20Store-blue?style=for-the-badge&logo=apple)](https://apps.apple.com/in/app/hometriangle/id6444316720)
+
+### HomeTriangle Partner
+[![Download on the App Store](https://img.shields.io/badge/Download%20HomeTriangle%20Partner-App%20Store-blue?style=for-the-badge&logo=apple)](https://apps.apple.com/in/app/home-triangle-partners/id6444804689)
+
+## 🌟 Open Source Contributions
+
+I am actively involved in contributing to the open-source community. Here are some of my contributions:
+
+- **[Quantitizer](https://github.com/kojofosu/Quantitizer)** – A project I contributed to by enhancing its functionality and helping improve its open-source codebase.
+- **[Hacktoberfest 2020 Contribution](https://github.com/RobinKumar5986/Hacktober/pull/1)** – A successful contribution during Hacktoberfest 2020, where I participated in open-source development and earned recognition.
+
+## 🏆 Hacktoberfest 2020 Winner
+I am proud to have won **Hacktoberfest 2020**, contributing to multiple open-source repositories and expanding my experience in collaborative development.
+
+## 🌟 LeetCode Profile
+
+I am actively improving my coding skills and ranking on **LeetCode**. Currently, I am ranked in the **Top ~70K globally** in LeetCode.
+## 🌟 LeetCode Profile
+
+I am actively improving my coding skills and ranking on **LeetCode**. Currently, I am ranked in the **Top ~70K globally**.
+
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-Top%2070K-green?style=flat)](https://leetcode.com/u/RobinKumar_leetcode/)
+
+You can check out my profile here:  
+[🔗 RobinKumar's LeetCode Profile](https://leetcode.com/u/RobinKumar_leetcode/)
+
+
+## 🧑‍💻 Programming Languages
+
+These are the programming languages I have worked with:
+
+![Java](https://img.shields.io/badge/Java-F8B800?style=flat-square&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+---
+
+While these are the languages I've actively worked with, I've also explored a variety of other languages and technologies. However, I believe that in programming, **logic and problem-solving skills** are more important than the specific language you use. The ability to think critically and approach challenges with a structured, efficient solution is what truly defines a skilled developer.
+
+---
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/robin-kumar-67ba361b9/) to learn more about my professional journey and experiences.
+
