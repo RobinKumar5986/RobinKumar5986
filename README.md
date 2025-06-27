@@ -11,6 +11,14 @@ I am always open to new opportunities and collaborations, eager to contribute my
 
 ## 📲 All the applications I have worked on professionally
 
+### 🧩 IntelliJ Plugin
+
+<a href="https://plugins.jetbrains.com/plugin/27226-post-kid" target="_blank">
+  <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="IntelliJ IDEA" width="60" height="60" />
+</a>
+<br>
+🔗 [Post Kid Plugin on JetBrains Marketplace](https://plugins.jetbrains.com/plugin/27226-post-kid)
+
 # Android
 
 ### HomeTriangle Consumer App
