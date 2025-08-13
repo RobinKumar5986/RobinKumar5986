@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Robin Kumar
 
-https://beta.hometriangle.com/dashboard/payments/order/416d1d5d-8a08-4867-a704-4c93a7e7da30
-
 
 I am a professional **Full Stack Developer** with experience in both front-end and back-end technologies. Throughout my career, I have contributed to various projects across different domains, focusing on delivering scalable and user-friendly applications.
 
